@@ -21,7 +21,7 @@ export default function Hero() {
     show: { 
       opacity: 1, 
       y: 0, 
-      transition: { duration: 0.8, ease: [0.16, 1, 0.3, 1] } // Custom easing for a premium feel
+      transition: { duration: 0.8, ease: [0.16, 1, 0.3, 1] as const} // Custom easing for a premium feel
     },
   };
 

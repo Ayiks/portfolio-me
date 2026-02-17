@@ -7,7 +7,7 @@ export default function Contact() {
         
         {/* Massive Call to Action */}
         <h2 className="text-5xl md:text-7xl font-bold tracking-tight mb-6 leading-[1.1] max-w-4xl">
-          Let's build products that people actually want to use.
+          Let&apos;s build products that people actually want to use.
         </h2>
         
         <p className="text-xl text-gray-500 font-light mb-12 max-w-2xl">

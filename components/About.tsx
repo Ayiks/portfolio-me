@@ -33,7 +33,7 @@ export default function About() {
             <strong className="font-semibold text-gray-900">I bridge the gap between business goals and user needs.</strong> With deep experience spanning complex B2B SaaS dashboards and engaging B2C mobile applications, I own the end-to-end design process—from initial user discovery and information architecture to high-fidelity prototyping and developer handoff.
           </p>
           <p>
-            My philosophy is rooted in problem-solving. I don't just design screens; I design systems that scale, optimize conversion funnels, and reduce friction. Whether orchestrating a dynamic CMS platform or digitizing an enterprise workflow, my focus is always on usability and measurable business impact.
+            My philosophy is rooted in problem-solving. I don&apos;t just design screens; I design systems that scale, optimize conversion funnels, and reduce friction. Whether orchestrating a dynamic CMS platform or digitizing an enterprise workflow, my focus is always on usability and measurable business impact.
           </p>
           <p>
             Operating seamlessly across time zones, I thrive in remote-first environments. I prioritize clear asynchronous communication, rigorous stakeholder alignment, and detailed engineering handoffs to ensure that what gets designed is exactly what gets built.
